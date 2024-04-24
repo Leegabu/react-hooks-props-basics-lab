@@ -1,4 +1,5 @@
 import React from "react";
+import User from "../data/user"
 
 function Home(props) {
   return (
@@ -8,6 +9,6 @@ function Home(props) {
       </h1>
     </div>
   );
-}
+} 
 
 export default Home;
